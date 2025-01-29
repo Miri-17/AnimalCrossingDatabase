@@ -25,6 +25,7 @@
 ├── Animal_Crossing_0.ipynb  
 ├── Animal_Crossing_1.ipynb  
 ├── ANIMAL_CROSSING.db  
+├── README.md  
 └── convert2html.ipynb  
 
 ### 動作確認
